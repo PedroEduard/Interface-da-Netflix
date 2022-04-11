@@ -1,2 +1,2 @@
 # Interface-da-Netflix
-Criando a Interface da netflix
+Criando a interface da netflix
